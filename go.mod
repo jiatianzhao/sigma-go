@@ -1,4 +1,4 @@
-module github.com/bradleyjkemp/sigma-go
+module github.com/jiatianzhao/sigma-go
 
 go 1.21
 
