@@ -2,9 +2,9 @@ package evaluator
 
 import (
 	"context"
-	"github.com/bradleyjkemp/sigma-go/evaluator/modifiers"
+	"github.com/jiatianzhao/sigma-go/evaluator/modifiers"
 
-	"github.com/bradleyjkemp/sigma-go"
+	"github.com/jiatianzhao/sigma-go"
 )
 
 type Option func(*RuleEvaluator)

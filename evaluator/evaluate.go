@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/bradleyjkemp/sigma-go"
-	"github.com/bradleyjkemp/sigma-go/evaluator/modifiers"
+	"github.com/jiatianzhao/sigma-go"
+	"github.com/jiatianzhao/sigma-go/evaluator/modifiers"
 )
 
 type RuleEvaluator struct {

@@ -3,8 +3,8 @@ package evaluator
 import (
 	"context"
 	aho_corasick "github.com/BobuSumisu/aho-corasick"
-	"github.com/bradleyjkemp/sigma-go"
-	"github.com/bradleyjkemp/sigma-go/evaluator/modifiers"
+	"github.com/jiatianzhao/sigma-go"
+	"github.com/jiatianzhao/sigma-go/evaluator/modifiers"
 	"regexp"
 	"strings"
 	"unsafe"
